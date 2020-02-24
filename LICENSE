@@ -1,0 +1,11 @@
+This package contains the following software components:
+
+- UnrealEngine
+- LeapMotionFX
+
+UnrealEngine files are distributed under the End User License Agreement For Publishing.
+Please see the following license page for complete terms.
+
+https://www.unrealengine.com/ja/eula/publishing
+
+LeapMotionFX (all other components in this package) is released into the public domain.
