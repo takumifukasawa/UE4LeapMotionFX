@@ -10,6 +10,12 @@ LeapMotion with Niagara
 - UE4.23.1
 - LeapMotion
 
----
+## Setup
 
-... writing ...
+Please install LeapMotion setup tools from here.
+
+[https://developer.leapmotion.com/setup/desktop](https://developer.leapmotion.com/setup/desktop)
+
+## How to make
+
+Please read my blog's [article](https://takumifukasawa.hatenablog.com/entry/leapmotion-niagara).
